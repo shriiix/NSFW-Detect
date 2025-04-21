@@ -41,7 +41,7 @@ def analyze_toxicity(text):
             r"\b(damn|hell|crap)\b",
             r"\b(shit|fuck|bitch)\b",
             r"\b(wtf|stfu|fu|fuck|shit|bitch)\b",
-            r"\b(fucker|slut|fucked)\b",
+            r"\b(fucker|slut)\b",
             r"\b(chutiya|madarchod|mc|bc|loda )\b",
             
         ],
